@@ -1,0 +1,4 @@
+repository "example-game@pneumaticc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
